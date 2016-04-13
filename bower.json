@@ -1,0 +1,22 @@
+{
+  "name": "uas-di",
+  "homepage": "https://github.com/ryanhs/php-pastec",
+  "authors": [
+    "ryan hs <mr.ryansilalahi@gmail.com>"
+  ],
+  "description": "final project for \"design interaction\" subject",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap-sass": "^3.3.6"
+  }
+}
